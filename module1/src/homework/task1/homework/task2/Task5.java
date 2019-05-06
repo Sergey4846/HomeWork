@@ -24,6 +24,6 @@ public class Task5 {
                 max = x;
         }
         System.out.println("Максимальное значение: " + max);
-        int sum = 0;
+        int sum =0;
     }
 }
